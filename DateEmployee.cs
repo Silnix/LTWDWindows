@@ -106,6 +106,7 @@ namespace BaiKt1
 
         public void XuatNhanVien()
         {
+            Console.WriteLine("|||||||||||||||||||||||||||||||||||||||");
             Console.WriteLine($"Ho va ten: {lastName} {firstName}");
             Console.Write("Ngay sinh: ");
             birthDate.XuatNgayThangNam();

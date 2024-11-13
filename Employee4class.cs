@@ -53,7 +53,7 @@ namespace BaiKt2
             {
                 employee.Print();
                 Console.WriteLine($"Thu nhap: {employee.Earnings()}");
-                Console.WriteLine("--------------------------------");
+                Console.WriteLine("++++++++++++++++++++++++++++++++");
                 Console.ReadLine();
 
             }
